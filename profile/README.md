@@ -62,7 +62,7 @@ Whether you're a developer, designer, or tech enthusiast, we welcome contributio
 
 [![Email](https://img.shields.io/badge/Email-info%40tassosconsultancy.com-%23EA4335?logo=gmail)](mailto:info@tassosconsultancy.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tassos_Consultancy-%230A66C2?logo=linkedin)](https://linkedin.com/company/tassos-consultancy-services)
-[![Address](https://img.shields.io/badge/📍-London%20|%20Athens%20|%20Remote-%2300A4EF)](https://www.tassosconsultancy.com/contact)
+[![Address](https://img.shields.io/badge/📍-Ahmedabad%20|%20Gujarat%20|%20India-%2300A4EF)](https://www.tassosconsultancy.com/contact)
 
 ---
 
